@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings 👋
 My name is Stephen Davis and I'm a senior studying Computer Science at Purdue University. 
 
 Right now my interests mainly consist of various different python projects including discord bots and packages to help automate away tedious tasks. 
