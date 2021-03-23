@@ -8,4 +8,4 @@ Right now my interests mainly consist of various different python projects inclu
 - 📫 How to reach me: stephenedavis17@gmail.com
 - 🥅 My goal for 2021 is to fully automate the maintainence of my python repos
   - [x] auto doc generation and publishing [pencil-pusher](https://github.com/stephend017/pencil-pusher)
-  - [ ] auto releasing [snake-charmer](https://github.com/stephend017/snake_charmer) [in progress]
+  - [ ] auto releasing [snake-charmer](https://github.com/stephend017/snake_charmer)
